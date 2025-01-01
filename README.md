@@ -73,20 +73,27 @@
 ## 📽 **시연 영상**
 
 ###  [EEPROM 작동영상](https://drive.google.com/file/d/1MujaSoHp4UNyhDWvEoenL6BfYaLAoawG/view?usp=sharing)  
+![alt text](gif/EEPROM작동영상.gif)
 
 ###  [RF태그 인증 성공](https://drive.google.com/file/d/1YYxM1XOTx2GOW8KGLdstxpaAq8Ou49_t/view?usp=sharing)
+![alt text](gif/RF태그인증성공.gif)
 
 ### [비밀번호 인증 성공](https://drive.google.com/file/d/1anoRTXU_o0v-hY8vrUQUnI5wxC5C_Y1i/view?usp=sharing)
+![alt text](gif/비밀번호인증성공.gif)
 
 ### [RF태그 5회 오류](https://drive.google.com/file/d/1NXzleVFyKxmz5J1ppQkno4h6jzdR3PGr/view?usp=sharing)
+![alt text](gif/RF태그5회오류.gif)
 
 ### [비밀번호 5회 오류](https://drive.google.com/file/d/1Rxn2nM4UNtDHe29yYQBI_8duVJtfgDdl/view?usp=sharing)
+![alt text](gif/비밀번호5회오류.gif)
 
 ### [복합적 인증 5회 오류](https://drive.google.com/file/d/125lMFFEactIWvCZ_-WxsLUZxeB01ogBq/view?usp=drive_link)
+![alt text](gif/복합적인증5회오류.gif)
 
 ### [오류 중첩 후 인증 성공](https://drive.google.com/file/d/15-v4FAV2ENnxRNOuzUoVExP98IRCbwpY/view?usp=sharing)
-
+![alt text](gif/오류중첩후인증성공.gif)
 ### [RF태그 변경](https://drive.google.com/file/d/18BHI_SWtR5N701nFjLiItIUpMxn-22A2/view?usp=sharing)
+![alt text](gif/RF태그변경.gif)
 
 ### [비밀번호 변경](https://drive.google.com/file/d/1eqMVDRwIiuwbm2lJyh8Ob9F2aArfxDsH/view?usp=sharing)
-
+![alt text](gif/비밀번호변경.gif)
